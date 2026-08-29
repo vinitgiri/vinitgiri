@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m Vinit Giri, a passionate and growth-driven Computer Science student specializing in Full-Stack Development. I work extensively with the MERN stack, building scalable, user-focused applications that combine strong functionality with clean design.<br><br>I enjoy taking projects from concept to deployment—managing front-end architecture, backend logic, state management, and seamless user authentication. My experience also includes API integration, UI/UX-focused design, and cloud-based development workflows.<br><br>Along with cracking GSoC in my 2nd year, I actively contribute to technical projects, lead design initiatives, and continuously upskill myself with emerging tools and technologies like Generative AI. I am committed to building innovative solutions and growing into a versatile, industry-ready full-stack engineer.
+I’m Vinit Giri, a passionate and growth-driven Computer Science student specializing in Full-Stack Development. Results-driven Software Engineer with strong foundations in Data Structures, Algorithms, Full-Stack Development,
+and Machine Learning, passionate about solving complex problems and building scalable, high-impact software.
+Seeking a challenging software engineering role to apply technical expertise, continuously learn, and deliver
+efficient, reliable, and user-focused solutions. 
 
 
 ## 🌐 Socials:
