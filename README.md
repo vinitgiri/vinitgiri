@@ -1,3 +1,10 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Vinit%20Giri&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Gen%20AI%20Builder%20%E2%80%A2%20Competitive%20Programmer&descAlignY=55&descSize=18" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Exploring+LLMs+%26+Voice+AI;250%2B+DSA+problems+solved;Knight+on+LeetCode+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</p>
 # 💫 About Me:
 I’m Vinit Giri, a passionate and growth-driven Computer Science student specializing in Full-Stack Development. Results-driven Software Engineer with strong foundations in Data Structures, Algorithms, Full-Stack Development,
 and Machine Learning, passionate about solving complex problems and building scalable, high-impact software.
