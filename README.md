@@ -53,18 +53,5 @@ efficient, reliable, and user-focused solutions.
   <img src="https://raw.githubusercontent.com/AmbyHasan/AmbyHasan/output/snake.svg" alt="Snake animation" />
 </p>
 
-### 📊 Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitgiri&theme=tokyonight" height="150"/>
-<img src="https://leetcard.jacoblin.cool/vinitgiri?theme=dark&font=baloo" height="150"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/vinitgiri/vinitgiri/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center"><i>Code. Optimize. Build. Repeat.</i> ⭐</p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
